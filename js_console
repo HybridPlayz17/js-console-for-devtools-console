@@ -1,6 +1,5 @@
-/* title
-oh btw i did 7 newlines (\n) to make sure you can see the title AND the prompt thing at the same time (NOTE: it only does that if there isnt already text above) */
-console.log("\n\n\n\n\n\n\n%c╔═════════════════════════╗\n%cNAME: %cJS CONSOLE\n%c╚═════════════════════════╝",
+// title
+console.log("%c╔═════════════════════════╗\n%cNAME: %cJS CONSOLE\n%c╚═════════════════════════╝",
 	"color: gray;",
 	"color: #60A140; font-size: 20px; text-shadow: 3px 3px 0 black;",
 	"color: #7194FF; font-size: 20px; text-shadow: 3px 3px 0 black;",
